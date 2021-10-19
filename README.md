@@ -1,7 +1,7 @@
 # Team Name
 
 ### Team Members
-Mingrui Huang
+Mingrui Huang, Vu Tran
 
 ### Final Proposal
 1. Persona/Scenario
