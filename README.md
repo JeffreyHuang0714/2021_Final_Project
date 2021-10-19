@@ -1,6 +1,7 @@
 # Team Name
 
 ### Team Members
+Mingrui Huang
 
 ### Final Proposal
 1. Persona/Scenario
