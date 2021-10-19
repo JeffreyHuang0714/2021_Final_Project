@@ -1,7 +1,7 @@
 # Team Name
 
 ### Team Members
-Mingrui Huang, Vu Tran
+Mingrui Huang, Vu Tran, James Seaward
 
 ### Final Proposal
 1. Persona/Scenario
