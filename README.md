@@ -1,4 +1,4 @@
-# Team Name
+# Team Zebra
 
 ### Team Members
 Mingrui Huang, Vu Tran, James Seaward
