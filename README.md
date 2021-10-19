@@ -8,9 +8,8 @@ Mingrui Huang, Vu Tran, James Seaward
 Tracking the spread of Zebra Mussels in The USA 
 2. Data
 Spatial and Temporal data of the zebra mussels 
-
 https://nas.er.usgs.gov/queries/collectioninfo.aspx?SpeciesID=5
-The Introduction and Spread of the Zebra Mussels in North America
+<br>The Introduction and Spread of the Zebra Mussels in North America
 http://csu.edu/cerc/documents/TheIntroductionandSpreadoftheZebraMusselinNorthAmerica.pdf
 3. Method
 Story map of the spreading of zebra mussels
