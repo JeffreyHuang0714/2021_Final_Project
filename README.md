@@ -1,4 +1,4 @@
-# Team Zebra
+# Team Zebra's Activity 7
 
 ### Team Members
 Mingrui Huang, Vu Tran, James Seaward
