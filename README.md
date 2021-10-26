@@ -13,7 +13,7 @@ Mingrui Huang, Vu Tran, James Seaward
 <br>[European Zebra Mussel, Dreissena polymorpha](https://congressional-proquest-com.colorado.idm.oclc.org/congressional/result/pqpresultpage.gispdfhitspanel.pdflink/$2fapp-bin$2fgis-congresearch$2f8$2fe$2f8$2f9$2fcrs-1990-enr-0016_from_1_to_14.pdf/entitlementkeys=1234%7Capp-gis%7Ccongresearch%7Ccrs-1990-enr-0016)
 <br>[Economic Impacts of Zebra Mussels on Drinking Water Treatment and Electric Power Generation Facilities](https://link-springer-com.colorado.idm.oclc.org/article/10.1007%2Fs00267-006-0296-5)
 <br>[Zebra Mussels past and present](https://cpw.state.co.us/PublishingImages/ANS/current_zm_quag_map.jpg)
-<br>[State Spending to prevanet zebra mussels](https://www.fws.gov/anstaskforce/QZAP/QZAP_FINAL_Feb2010.pdf)
+<br>[State Spending to prevent the zebra mussels](https://www.fws.gov/anstaskforce/QZAP/QZAP_FINAL_Feb2010.pdf)
 3. Method
 <br>Story map of the spreading of zebra mussels
 
